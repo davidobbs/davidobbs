@@ -1,8 +1,10 @@
 # Davi Dobbs
 
-Software Engineering Student focused on AI-applied systems, automation and digital products.
+Software Engineer building AI-applied systems, automations, dashboards and digital products.
 
-I build systems that turn artificial intelligence into real-world workflows, dashboards, products and business decisions.
+I turn artificial intelligence into real-world workflows, business tools and decision systems.
+
+**Less hype. More engineering.**
 
 ## Focus Areas
 
@@ -16,7 +18,7 @@ I build systems that turn artificial intelligence into real-world workflows, das
 ## Featured Projects
 
 ### LinkedIn Automation System
-AI-powered automation system for LinkedIn workflows, inbox monitoring and intelligent responses.
+AI-powered automation system for LinkedIn workflows, inbox monitoring, lead tracking and intelligent responses.
 
 ### Dobbs Blog
 Personal technology platform focused on AI, software engineering, automation and strategic thinking.
