@@ -1,16 +1,37 @@
-## Hi there 👋
+# Davi Dobbs
 
-<!--
-**davidobbs/davidobbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student focused on AI-applied systems, automation and digital products.
 
-Here are some ideas to get you started:
+I build systems that turn artificial intelligence into real-world workflows, dashboards, products and business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+- Artificial Intelligence applied to real business problems
+- Software Engineering
+- Process Automation
+- SaaS and Digital Products
+- Data Analysis and Dashboards
+- AI-first product development
+
+## Featured Projects
+
+### LinkedIn Automation System
+AI-powered automation system for LinkedIn workflows, inbox monitoring and intelligent responses.
+
+### Dobbs Blog
+Personal technology platform focused on AI, software engineering, automation and strategic thinking.
+
+### Financial Intelligence Dashboard
+Experimental system for transforming business data into dashboards, DRE analysis and AI-generated insights.
+
+## Tech Stack
+
+TypeScript · React · Next.js · Python · FastAPI · Node.js · MongoDB · PostgreSQL · Tailwind CSS · AI APIs
+
+## Philosophy
+
+Less hype. More engineering.
+
+## Links
+
+LinkedIn: https://linkedin.com/in/davidobbs
