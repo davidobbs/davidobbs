@@ -1,39 +1,33 @@
 # Davi Dobbs
 
-Software Engineer building AI-applied systems, automations, dashboards and digital products.
+**Engenheiro de Software | Desenvolvimento de sistemas, automação e inteligência artificial aplicada**
 
-I turn artificial intelligence into real-world workflows, business tools and decision systems.
+Desenvolvo aplicações, ferramentas e automações voltadas a necessidades reais. Atuo da identificação do problema à implementação, conectando requisitos, desenvolvimento, testes e documentação técnica.
 
-**Less hype. More engineering.**
+Utilizo ferramentas de IA para apoiar investigação de problemas, engenharia de software, revisão de código e organização de fluxos de trabalho. A tecnologia é um meio para entregar soluções compreensíveis e úteis.
 
-## Focus Areas
+## Trabalho e competências
 
-- Artificial Intelligence applied to real business problems
-- Software Engineering
-- Process Automation
-- SaaS and Digital Products
-- Data Analysis and Dashboards
-- AI-first product development
+- **Engenharia de software:** aplicações web, APIs REST, integrações, testes e automação.
+- **Tecnologias:** TypeScript, JavaScript, React, Node.js, Python e Git/GitHub.
+- **Dados:** familiaridade com MySQL.
+- **Ferramentas de IA:** Claude Code, OpenAI Codex, Cursor, ChatGPT, Claude e Gemini.
+- **Processos:** levantamento de requisitos, documentação técnica, rastreabilidade e organização de demandas.
 
-## Featured Projects
+## Projetos e demonstrações públicas
 
-### LinkedIn Automation System
-AI-powered automation system for LinkedIn workflows, inbox monitoring, lead tracking and intelligent responses.
+**[Leitor de Markdown](https://github.com/davidobbs/leitor-de-markdown)** — aplicação web instalável (PWA) para leitura de Markdown, com processamento local dos arquivos, histórico offline e suporte a dispositivos móveis.
 
-### Dobbs Blog
-Personal technology platform focused on AI, software engineering, automation and strategic thinking.
+**[Site profissional](https://dobbs.com.br)** — apresentação de serviços, projetos e conteúdos sobre tecnologia e IA aplicada.
 
-### Financial Intelligence Dashboard
-Experimental system for transforming business data into dashboards, DRE analysis and AI-generated insights.
+Outros projetos de clientes e produtos em desenvolvimento possuem repositórios privados, por questões de propriedade intelectual e confidencialidade.
 
-## Tech Stack
+## Formação
 
-TypeScript · React · Next.js · Python · FastAPI · Node.js · MongoDB · PostgreSQL · Tailwind CSS · AI APIs
+Bacharelado em Engenharia de Software — Universidade Estácio de Sá (2025).
 
-## Philosophy
+## Contato
 
-Less hype. More engineering.
-
-## Links
-
-LinkedIn: https://linkedin.com/in/davidobbs
+- **Portfólio:** [dobbs.com.br](https://dobbs.com.br)
+- **LinkedIn:** [linkedin.com/in/davidobbs](https://linkedin.com/in/davidobbs)
+- **E-mail:** [DaviDobbs@gmail.com](mailto:DaviDobbs@gmail.com)
